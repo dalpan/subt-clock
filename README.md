@@ -2,8 +2,6 @@
 
 **SubT-Cloak** is an advanced subdomain takeover analysis and cloaking simulation tool designed for red teamers, bug bounty hunters, and defenders alike. It expands traditional takeover scanning by introducing stealth, persistence, and deception into the equation.
 
-![subt-cloak-banner](https://user-images.githubusercontent.com/yourbanner.jpg)
-
 ---
 
 ## ✨ Features
