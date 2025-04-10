@@ -1,0 +1,25 @@
+## github
+- cname: github.io
+  status_code: 200
+  status: vulnerable can be takeover!
+  headers:
+    - Server: GitHub.com
+    - X-GitHub-Request-Id
+  content:
+    - "There isn't a GitHub Pages site here."
+  evasion_signatures:
+    - fake-200-response
+    - stripped-headers
+
+## heroku
+- cname: herokudns.com
+  status_code: 200
+  status: vulnerable can be takeover!
+  headers:
+    - Server: Cowboy
+    - Via: 1.1 vegur
+  content:
+    - "No such app"
+  evasion_signatures:
+    - fake-200-response
+    - stripped-headers
