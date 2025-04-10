@@ -96,7 +96,7 @@ subt-cloak/
 
 ## 📚 Paper Reference
 This tool is based on the research paper:
-> **"SubT-Cloak: Persistent Subdomain Takeover via Stealth and Deception"** (Black Hat Submission 2025)
+> **"SubT-Cloak: Persistent Subdomain Takeover via Stealth and Deception"** (For Black Hat Submission 2026)
 
 ---
 
